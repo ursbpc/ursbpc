@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DevOps/ Containers Services**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ursbpc](https://github.com/ursbpc)
+- 👨‍💻 All of my projects are available at https://github.com/ursbpc
 
 - 📫 How to reach me **bhanu40974@outlook.com**
 
