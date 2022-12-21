@@ -24,20 +24,10 @@
         <td align="center"><a href="https://github.com/ursbpc#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ursbpc&theme=default"/></a><a href="https://github.com/ursbpc#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ursbpc&theme=tokyonight"/></a></td>
     </tr>
     <tr>
-        <td colspan="2" align="center"><a href="https://github.com/ursbpc#gh-light-mode-only"><img src="https://raw.githubusercontent.com/ursbpc/ursbpc/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/ursbpc#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/ursbpc/ursbpc/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td colspan="2" align="center"><a href="https://github.com/ursbpc#gh-light-mode-only"><img src="https://raw.githubusercontent.com/ursbpc/AWS-DEVOPS-PROJECTS/main/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/ursbpc#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/ursbpc/AWS-DEVOPS-PROJECTS/main/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
 </table>
 
 
 <h3 align="left">Connect with me on:</h3>
 
-👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️ [Email](bhanu40974@outlook.com)
-
-####
-
-<a href="https://github.com/ursbpc" target="_blank"><img src="https://raw.githubusercontent.com/ursbpc/ursbpc/master/contain/fb.png" alt="Facebook" width="30"></a>
-<a href="https://twitter.com/local__tourist" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/tw.png" alt="Twitter" width="30"></a>
-<a href="https://www.instagram.com/local__tourist/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/ig.png" alt="Instagram" width="30"></a>
-<a href="https://www.linkedin.com/in/bhanuprakashchary-v-243053253/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://github.com/ursbpc" target="_blank"><img src="https://raw.githubusercontent.com/ursbpc/ursbpc/master/contain/git.png" alt="GitHub" width="30"></a>
-<a href="https://github.com/ursbpc" target="_blank"><img src="https://raw.githubusercontent.com/ursbpc/ursbpc/master/contain/www.png" alt="Website" width="30"></a>
